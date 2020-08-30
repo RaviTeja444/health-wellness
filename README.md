@@ -280,6 +280,10 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## Training Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png?raw=true)
 
+## Account Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png?raw=true)
+
+
 
 ## Risk & Mitigation 
 * As we are maintaining health data,we plan for safe and secure database to avoid risk of data loss.
