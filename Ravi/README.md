@@ -1,6 +1,8 @@
 ## My Tasks 
 1. Attendance : 
-- I have attended GDP1 class inperson on 21st and 26th of August.On 28th one of our team member attended the class.
+- I have attended GDP1 class in-person on 21st and 26th of August.
+- As there was no in-person classes for Remaining days we worked on project at home.
+- On 28th ,one person from our team has attended in-person class.
 
 2. On the first day i was working on creating Jira account and adding other team members into a project created.Later i created GITHUB repository and added collabarators into      the group public repository.We also had a meeting on first day discussing how to proceed further.
 - [Meeting Document](https://github.com/RaviTeja444/health-wellness/commit/88782a08e36e46a42870da8f70647e7b78984ee3)
