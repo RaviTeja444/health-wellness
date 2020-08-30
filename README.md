@@ -85,24 +85,6 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 
 5.Finally the User Points is calculated based on step count stored in DAILYLEVEL table. USER_POINTS will have userid and userpoints information.
 
-## Business Rules for the ER Diagram:
-
-1.A certain HEALTH WELLNEESS is interested in storing information about 
-  USER,DAILYLEVEL,USER_POINTS,CHALLENGE_NAME,GROUP_MEMBER,GROUP AND TARGET.
-  
-2.For each USER,The HEALTH WELLNESS would like to store a Unique UserId, EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENDER.
-
-3.For each GROUP,The Health wellness would like to store a Group unique Id,name,Creator and Date_Created,Date_Last_EDited.
-
-4.FOR each Group_Member, The Health wellness  would like to store a unique GROUP_MEMBER_ID, DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
-
-5.FOR each DAILYLEVEL, The HEALTH WELLNES would like to store a unique DAILYLEVEL_ID  UserId,step    count,Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement                  
-
-6.FOR each USER_POINTS, The HEALTH WELLNESS would like to store a unique USER_POINTS_ID,USER POINTS.
-
-7.FOR each TARGET, The Health wellness would like to store a unique TARGET_ID,TARGET_NAME,TARGET_DESCRIPTION AND TARGET_NUMERICAL_GOAL.
-
-8.FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store a unique CHALLENGE_ID CHALLENGE_NAME,designer,date_created,date_last_accessed.
 
 ## RELATIONS FOR ER-DIAGRAM:
 
