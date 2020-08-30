@@ -263,7 +263,7 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 * Github : Cloud Repository Platform used to store code
   
 ## APP_UX Design
-[APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
+[APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=92%3A4&scaling=scale-down)
 
 ## LogIn Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png?raw=true)
