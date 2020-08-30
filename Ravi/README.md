@@ -27,7 +27,7 @@
  - [Added Team User Roles](https://github.com/RaviTeja444/health-wellness/commit/7d5963de34a56486dcb89deeb6399b8e5eb50ade)
  - [Repo Link Added](https://github.com/RaviTeja444/health-wellness/commit/ab1dfcb0be228dd47222be45f0a4bbe97effe88d)
  
- 4. Added Risk & mitigation strategy points,added request for proposal link,updated the count of all stories and epics of jira to markdown.Small changes done including headings and jira screenshots.
+ 4. On third day i have Added Risk & mitigation strategy points,added request for proposal link,updated the count of all stories and epics of jira to markdown.Small changes done including headings and jira screenshots.
  
  - [Added US/EPIC Count](https://github.com/RaviTeja444/health-wellness/commit/4e8b7b6046701533963908eb0eb0f8e0796b0111)
  - [Added Acceptance Criteria in Jira and added Screenshot](https://github.com/RaviTeja444/health-wellness/commit/36ad50639aa459dba2f2319e6c667eb2089df7ab)
