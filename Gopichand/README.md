@@ -1,5 +1,7 @@
 ## My Tasks
-1. Attendance :
+
+## Attendance :
+
 - I had appeared GDP1 class on 21st and 26th of August and remaining claases have no in-person so i Worked from home.On 28th of August one of our group member appeared the class.
 ## Half day 1
 
