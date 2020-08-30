@@ -1,6 +1,7 @@
 ## My Tasks
 1. Attendance :
 - I had appeared GDP1 class on 21st and 26th of August and remaining claases have no in-person so i Worked from home.On 28th of August one of our group member appeared the class.
+## Half day 1
 
 2. On the first day I worked on ER Diagaram.I established different entities and along with the relationships which are required to the our Health wellness App.We We also had a first day meeting to discuss how to move further.
 
@@ -9,10 +10,12 @@
 - [ER Diagram image is added](https://github.com/RaviTeja444/health-wellness/commit/565ea5ea0228454c1c8ddfb916dbafee2d5a6f6e)
 
 - [Updated Readme](https://github.com/RaviTeja444/health-wellness/commit/be02b681e2100eb25223cdb499670b08514e0a6d)
-
+## Half day 2
 3.On the second day I worked on the sample input data of the each entity and i added the diffrent entities data into the markdown.
 
 - [Each entity data is added](https://github.com/RaviTeja444/health-wellness/commit/87543351ffc6b70ca6c59378172ff021b9bd49e3)
+
+## Half day 3
 
 4.Final day that is third day, I had worked on Relationships for ER Diagram.I have also mentioned how the each entity is going to be worked in the ER Diagram.Later on added spreed sheets to the markdown.
 
