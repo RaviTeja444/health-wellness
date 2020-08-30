@@ -295,6 +295,9 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## DifferentUI_Color
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Color.PNG)
 
+## DifferentUI_Home
+![](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Home.PNG)
+
 ## Risk & Mitigation 
 * As we are maintaining health data,we plan for safe and secure database to avoid risk of data loss.
 * We maintain high secure Authentication for the users to avoid risk of hacking.
