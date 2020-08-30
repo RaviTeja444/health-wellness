@@ -1,6 +1,6 @@
 ## My Tasks
 1. Attendance :
-- I had appeared GDP1 class on 21st and 26th of August.On 28th of August one of our group member appeared the class.
+- I had appeared GDP1 class on 21st and 26th of August and remaining claases have no in-person so i Worked from home.On 28th of August one of our group member appeared the class.
 
 2. On the first day I worked on ER Diagaram.I established different entities and along with the relationships which are required to the our Health wellness App.We We also had a first day meeting to discuss how to move further.
 
