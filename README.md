@@ -286,6 +286,11 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## ShopByPoints Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/market%20page.png?raw=true)
 
+## Challenges Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/challenge%20page.png?raw=true)
+
+## Settings Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png?raw=true)
 
 ## Risk & Mitigation 
 * As we are maintaining health data,we plan for safe and secure database to avoid risk of data loss.
