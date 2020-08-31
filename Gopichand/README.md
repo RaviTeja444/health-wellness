@@ -3,9 +3,20 @@
 ## Attendance :
 
 - I had appeared GDP1 class on 21st and 26th of August and remaining claases have no in-person so i Worked from home.On 28th of August one of our group member appeared the class.
+
 ## Half day 1
 
 2. On the first day I worked on ER Diagaram.I established different entities and along with the relationships which are required to the our Health wellness App.We We also had a first day meeting to discuss how to move further.
+ 
+## Discussed following Questions:
+
+What Entities we need to include in the ER Diagram ?
+Ans:Based on the request proposal we got an overview about the all Entities but we Established new entity called User Points Entity in the ER Diagram.
+
+what is the relation between user table and user points ?
+Ans:Based on the Daily level Table we are going to calculte user points.
+
+
 
 - We initiated a call between ourselves on the first day on how to move forward with our Health wellness application.
 
