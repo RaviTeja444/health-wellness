@@ -1,6 +1,14 @@
 # Individual Contribution
 
 ## Attendance
+| Date      | Comments            |
+|-----------|--------------------|
+| 8/19/2020 | Class Cancelled    |
+| 8/21/2020 | Present In\-Person |
+| 8/24/2020 | Online             |
+| 8/26/2020 | Present In\-Person |
+| 8/28/2020 | Present In\-Person |
+
 - I had attended GDP-1 classes in-person on 21st, 26th and 28th of August 2020.
 - I have been collaborating with the team over calls and meetings regarding the proposal and planning all the while.
 ## Half Day 1
