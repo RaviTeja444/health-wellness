@@ -1,7 +1,13 @@
 # Attendance
-- I have attended GDP1 class in-person on 21st and 26th of August.
-- As there was no in-person classes for Remaining days we worked on project at home.
-- On 28th ,one person from our team has attended in-person class.
+
+| Date      | Comments            |
+|-----------|--------------------|
+| 8/19/2020 | Class Cancelled    |
+| 8/21/2020 | Present In\-Person |
+| 8/24/2020 | Online             |
+| 8/26/2020 | Present In\-Person |
+| 8/28/2020 | One person attended  from group|
+             
 
 # Half Day 1
 On the first day i was working on creating Jira account and adding other team members into a project created.Later i created GITHUB repository and added collabarators into      the group public repository.We also had a meeting on first day discussing how to proceed further.
