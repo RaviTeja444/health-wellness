@@ -4,7 +4,7 @@
     <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Class Attended</th>	
-<th>Mode </th>
+<th>Mode </th> 
 <th>Number of hours</th>
 <th>In class discussions </th>
 </tr>
