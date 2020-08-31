@@ -6,5 +6,10 @@
 ## Half Day 1
 A day before the in-person class I had gone through the RFP provided by Prof. Charles Badami, and we had a client meeting with Dr. Rhonda Beemer. We brainstormed in the class regarding the client’s requirement and understood the goals of the project.
 Questions & Answers discussed:
-[08/21/2020](https://github.com/RaviTeja444/health-wellness/blob/master/docs/meetings/2020-08-21.md)
+- [08/21/2020](https://github.com/RaviTeja444/health-wellness/blob/master/docs/meetings/2020-08-21.md)
 ## Half Day 2
+On 26/08/2020, I started drafting the Introduction, Statement of Purpose, Objective and Roles which would be part of Resource Management
+- [Introduction](https://github.com/RaviTeja444/health-wellness/commit/d72127fa86b47954a02a28b0fa448e597c390765)
+- [Statement of Purpose](https://github.com/RaviTeja444/health-wellness/commit/0138d2f6f9d7b71e783e154852a159b8c690c603)
+- [Objective](https://github.com/RaviTeja444/health-wellness/commit/873f8fc6c2e96c369fe54bbc6bea4cf66830d469)
+- [Roles](https://github.com/RaviTeja444/health-wellness/commit/f1504f594009d39ec493ca28bb604926794a9bc8)
