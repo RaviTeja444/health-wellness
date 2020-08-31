@@ -12,11 +12,11 @@
 
 1. What Entities we need to include in the ER Diagram ?
 
-Ans:Based on the request proposal we got an overview about the all Entities but we Established new entity called User Points Entity in the ER Diagram.
+   Ans:Based on the request proposal we got an overview about the all Entities but we Established new        entity called User Points Entity in the ER Diagram.
 
 2. what is the relation between user table and user points ?
 
-Ans:Based on the Daily level Table we are going to calculte user points.
+   Ans:Based on the Daily level Table we are going to calculte user points.
 
 
 
