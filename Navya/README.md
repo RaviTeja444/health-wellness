@@ -72,7 +72,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
    [Image added](https://github.com/RaviTeja444/health-wellness/commit/91ce8408c87904bbb990f0f5cb5a518ca98a5fbf)
 
-- Made few more commits and added content.
+- Made few more commits and added content. 
 
 
 
