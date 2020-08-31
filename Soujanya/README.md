@@ -13,3 +13,6 @@ On 26/08/2020, I started drafting the Introduction, Statement of Purpose, Object
 - [Statement of Purpose](https://github.com/RaviTeja444/health-wellness/commit/0138d2f6f9d7b71e783e154852a159b8c690c603)
 - [Objective](https://github.com/RaviTeja444/health-wellness/commit/873f8fc6c2e96c369fe54bbc6bea4cf66830d469)
 - [Roles](https://github.com/RaviTeja444/health-wellness/commit/f1504f594009d39ec493ca28bb604926794a9bc8)
+## Half Day 2
+I attended the in-person section from my team, in order to check with the projector settings for the Client's presentation on Wednesday 09/03/2020. I discussed with my team took the project proposal as a reference to prepare slides
+- [Presentation](https://github.com/RaviTeja444/health-wellness/commit/fc96e22f317de760d387a29034e95325b1d9b044)
