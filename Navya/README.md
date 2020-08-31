@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <td>08/19/2020</td>
-<td>No class</td>
+<td>No class</td> 
 <td>N/A</td>
 <td>N/A</td>
 </tr>
