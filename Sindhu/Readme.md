@@ -33,8 +33,8 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - Discussed about budget with my team members and have written the estimated time taken and cost to complete the project. 
 - I have included the estimated labor cost depending on their indivudial role.
 - updated Readme.md file by describing the budget and added image of the excel sheet.
-- https://github.com/RaviTeja444/health-wellness/commit/d516cc97f4f0a4d325b4cf264563c0c9f22c6b68
-- https://github.com/RaviTeja444/health-wellness/commit/f7023b8c87daac02f7dd89e4d98b6fa63eeb75d9
+- [Added CostEstimate Excel sheet](https://github.com/RaviTeja444/health-wellness/commit/d516cc97f4f0a4d325b4cf264563c0c9f22c6b68)
+- [Added the cost estimated excel image](https://github.com/RaviTeja444/health-wellness/commit/f7023b8c87daac02f7dd89e4d98b6fa63eeb75d9)
 
 # Half Day 3
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
@@ -42,8 +42,8 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - On the third day, I have discussed about the comments with my team that are mentioned and updated accordingly.
 - I have updated the Excel sheet as the total cost estimate must be mentioned for whole project.
 - I have updated the image for total cost estimate.
-- https://github.com/RaviTeja444/health-wellness/commit/f23651031b2f32f299719fff1d787ede6e4942dd
-- https://github.com/RaviTeja444/health-wellness/commit/62fa3296360ec276b77baec9c5057b2452b0a26c
+- [Updated excel sheet](https://github.com/RaviTeja444/health-wellness/commit/f23651031b2f32f299719fff1d787ede6e4942dd)
+- [Updated excel sheet image](https://github.com/RaviTeja444/health-wellness/commit/62fa3296360ec276b77baec9c5057b2452b0a26c)
 
 
 
