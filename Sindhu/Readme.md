@@ -6,7 +6,7 @@
 | 08/19/2020      | No Class     |  N/A            | N/A             | 
 | 08/21/2020      | In-person    | 4 hours         | Client meeting             | 
 | 08/24/2020      | Worked from home | 4 hours     | Group discussion about project proposal class|
-| 08/26/2020      | In-person   | 4 hours          | Worked together on project proposal          | 
+| 08/26/2020      | In-person   | 4 hours          | We worked together on project proposal          | 
 | 08/28/2020      | Worked from home  | N/A        | clarified doubts regarding presentation      | 
 
 
