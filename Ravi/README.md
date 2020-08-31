@@ -5,7 +5,7 @@
 
 # Half Day 1
 On the first day i was working on creating Jira account and adding other team members into a project created.Later i created GITHUB repository and added collabarators into      the group public repository.We also had a meeting on first day discussing how to proceed further.
-- [Meeting Document](https://github.com/RaviTeja444/health-wellness/commit/88782a08e36e46a42870da8f70647e7b78984ee3)
+
 - On the first day we have initiated a call among us on how to proceed further regarding our application.
 
   ## Questions & Answers discussed:
