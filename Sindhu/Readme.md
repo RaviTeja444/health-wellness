@@ -1,3 +1,16 @@
+# Attendance
+
+| Date of Class   | Mode of class | No of hours    | Discussion   | 
+| --------------- | ------------- | -------------- | ------------ | 
+| 08/19/2020      | No Class     |  N/A            | N/A             | 
+| 08/21/2020      | In-person    | 4 hours         | Client meeting             | 
+| 08/24/2020      | Worked from home | 4 hours     | Group discussion about project proposal class|
+| 08/26/2020      | In-person   | 4 hours          | Worked together on project proposal          | 
+| 08/28/2020      | Worked from home  | N/A        | clarified doubts regarding presentation      | 
+
+
+
+
 # Half Day 1
 On the first day, we have listened to client about Request For Proposal and requirements by client and professor in the client meeting.
 I have joined the collaborative repo in github.
