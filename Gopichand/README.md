@@ -1,8 +1,15 @@
 ## My Tasks
 
-## Attendance :
+# Attendance :
 
-- I had appeared GDP1 class on 21st and 26th of August and remaining claases have no in-person so i Worked from home.On 28th of August one of our group member appeared the class.
+| Date      | Comments            |
+|-----------|--------------------|
+| 8/19/2020 | Class Cancelled    |
+| 8/21/2020 | Present In\-Person |
+| 8/24/2020 | Online             |
+| 8/26/2020 | Present In\-Person |
+| 8/28/2020 | One of the member attended from group|
+
 
 ## Half day 1
 
