@@ -66,13 +66,12 @@ Link : [Scheduling](https://github.com/RaviTeja444/health-wellness/blob/master/S
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - Invited client for presentation to be held on September 2nd.   
-- Few important commits made are : 
 
-   [Added a file](https://github.com/RaviTeja444/health-wellness/commit/fa2c276d2e7abe21f69e4ca2c3a96e8ef42badaa)
+- Made few changes and added content after reviewing Dr. Badami's [comments](https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31025) on our proposal draft. 
 
-   [Image added](https://github.com/RaviTeja444/health-wellness/commit/91ce8408c87904bbb990f0f5cb5a518ca98a5fbf)
+- Total number of commits made by me : 24
+- Tested our project with our sample data.
 
-- Made few more commits and added content. 
 
 
 
