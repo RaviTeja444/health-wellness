@@ -24,6 +24,6 @@ On 26/08/2020, I started drafting the Introduction, Statement of Purpose, Object
 ## Half Day 3
 I attended the in-person section from my team, in order to check with the projector settings for the Client's presentation on Wednesday 09/03/2020. I discussed with my team took the project proposal as a reference to prepare slides
 - [Presentation](https://github.com/RaviTeja444/health-wellness/commit/fc96e22f317de760d387a29034e95325b1d9b044)
-- [Benefits and Project Requirement Specifications](https://github.com/RaviTeja444/health-wellness/commit/441e5bee2e6d99e03c9111e08c2a7d5fc6df986e)
+- [WalkTracker Benefits and Project Requirement Specifications](https://github.com/RaviTeja444/health-wellness/commit/441e5bee2e6d99e03c9111e08c2a7d5fc6df986e)
 ## Team Meetings
 Meetings and discussions in our team are captured in [here](https://github.com/RaviTeja444/health-wellness/commit/81f8f2ae728c40ed26c96e2daf0d3c9593668dfd)
