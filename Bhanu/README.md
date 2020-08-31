@@ -22,7 +22,7 @@ Updated the [Readme.md](https://github.com/RaviTeja444/health-wellness/commit/c7
 
 
 ## 3. Half Day-2
-- On Day-2 i.e.(08-24-2020), Continued my work on designing the remaning UI pages and parallely started moving and commenting the story as per the changes done in Jira.
+- On Day-2, Continued my work on designing the remaning UI pages and parallely started moving and commenting the story as per the changes done in Jira.
   Suggested the Changes/requirements in the Jira assigned to me to the Scrum Master of our team.
  4. Designed the [Training page](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png?raw=true) where an user can learn the excersies or some           useful tips that keeps up body fit.
  5. Desinged the [Me page](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png?raw=true) where an user can check the points earned and can compare       the daily foot steps in a weekly manner.
@@ -32,7 +32,7 @@ Updated the [Readme.md](https://github.com/RaviTeja444/health-wellness/commit/c7
 
 
 ## 4. Half Day-3
-On Day-3 i.e.(08-26-2020), after submitting our intial Request for Proposal document. We got suggestion/changes to be done from Dr. Badami. 
+On Day-3, after submitting our intial Request for Proposal document. We got suggestion/changes to be done from Dr. Badami. 
 - We(Team) had a call and discussed on the latest changes need to be done and started working on the assigned tasks/comments received from Dr.Badami.
 - I have came up with some differnet colors for the App and submitted the design.As, we have given client a choice of chossing different color for the App.
 - [App Login Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Color.PNG) & [App Home Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Home.PNG)
