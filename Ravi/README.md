@@ -12,17 +12,17 @@
 # Half Day 1
 On the first day i was working on creating Jira account and adding other team members into a project created.Later i created GITHUB repository and added collabarators into      the group public repository.We also had a meeting on first day discussing how to proceed further.
 
-- On the first day we have initiated a call among us on how to proceed further regarding our application.
+- On the first day we have initiated a meeting among us on how to proceed further regarding our application.The meeting ended for 10 minutes.
 
-  ## Questions & Answers discussed:
+  ## Minutes of Meeting(MOM):
   1.	What will be our base idea on which a user will be interested to use our app?
-  Ans: We discussed and cam to conclusion to use a points based system in our app where user gains points based on the step count he walked and the gained points can be used to   buy in market section like Northwest T-shirts, cups.
+  Action: We discussed and cam to conclusion to use a points based system in our app where user gains points based on the step count he walked and the gained points can be used to   buy in market section like Northwest T-shirts, cups.
 
   2. Who will play what roles in our team?
-  Ans: We discussed among ourselves and assigned roles like Project manager, Team Lead, Full stack developers, DB Administrators in our team and started working towards it.
+  Action: We discussed among ourselves and assigned roles like Project manager, Team Lead, Full stack developers, DB Administrators in our team and started working towards it.
 
   3. Who will take which part of Module 1 assignment?
-  Ans: We discussed among ourselves and team member voluntarily took individual parts of Proposal document like Cost management, Schedule management, Jira tasks, Data base         tasks, User Interface tasks etc.
+  Action: We discussed among ourselves and team member voluntarily took individual parts of Proposal document like Cost management, Schedule management, Jira tasks, Data base         tasks, User Interface tasks etc.
 
 - [Added Proposal Document Data](https://github.com/RaviTeja444/health-wellness/commit/627eb771f6508bae62dc1b7ada95b08565b05e88)
 - [Hosted Page Changes/Jira Account Link](https://github.com/RaviTeja444/health-wellness/commit/32dc2323f6a5590b6d64cd6de269d85bf49b48be)
