@@ -1,4 +1,4 @@
-1. ## Attendance :
+ 1. ## Attendance :
     I attended GDP-1 class on August 21st and 26th. One of my team member attended class on August 28th. 
     
     <table style="width:100%;border: 1px solid black;">
