@@ -61,7 +61,7 @@ Link : [Scheduling](https://github.com/RaviTeja444/health-wellness/blob/master/S
 - Collected data and organized files.
 
 
-## Half Day 3
+4. ## Half Day 3
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
