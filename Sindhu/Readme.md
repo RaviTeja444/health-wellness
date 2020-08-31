@@ -7,22 +7,27 @@
 | 08/21/2020      | In-person    | 4 hours         | Client meeting             | 
 | 08/24/2020      | Worked from home | 4 hours     | Group discussion about project proposal class|
 | 08/26/2020      | In-person   | 4 hours          | We worked together on project proposal          | 
-| 08/28/2020      | Worked from home  | N/A        | clarified doubts regarding presentation      | 
+| 08/28/2020      | one of our group members attended  | N/A        | clarified doubts regarding presentation      | 
 
 
 
 
 # Half Day 1
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
 - On the first day, we have listened to client about Request For Proposal and requirements by client and professor in the client meeting.
 - I have joined the collaborative repo in github.
 - Later, we had a meeting and discussed about the use of our application from user's perspective.
-- We have assigned roles and divided the work among ourselves and started working on the application.
+## Questions and answers discussed:
+- What are the roles of each indicudial? Ans:We discussed about our interests towards each role that is Project manager, DataBase Administrator, Team Leader and Full stack developer and assigned ourselves the roles.
+- What is the objective of our project? Ans: We discussed the objective, cost and schedule of the project.
+- We have divided the work among ourselves and started working on the application.
 - https://github.com/RaviTeja444/health-wellness
 
 
 # Half Day 2
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
 - On the second day, I have started working on cost estimate excel sheet.
 - I have created an excel sheet to estimate the budget of the project by dividing the project in different phases.
 - Discussed about budget with my team members and have written the estimated time taken and cost to complete the project. 
@@ -33,8 +38,10 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 # Half Day 3
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
 - On the third day, I have discussed about the comments with my team that are mentioned and updated accordingly.
-- I have updated the Excel sheet as the total cost estimate must be mentioned and I have updated the image for total cost estimate.
+- I have updated the Excel sheet as the total cost estimate must be mentioned for whole project.
+- I have updated the image for total cost estimate.
 - https://github.com/RaviTeja444/health-wellness/commit/f23651031b2f32f299719fff1d787ede6e4942dd
 - https://github.com/RaviTeja444/health-wellness/commit/62fa3296360ec276b77baec9c5057b2452b0a26c
 
