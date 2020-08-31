@@ -13,7 +13,7 @@
 
 ## Half day 1
 
-2. On the first day I worked on ER Diagaram.I established different entities and along with the relationships which are required to the our Health wellness App.We We also had a first day meeting to discuss how to move further.
+1. On the first day I worked on ER Diagaram.I established different entities and along with the relationships which are required to the our Health wellness App.We We also had a first day meeting to discuss how to move further.
  
 ## Discussed following Questions:
 
