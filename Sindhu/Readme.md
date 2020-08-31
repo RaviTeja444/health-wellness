@@ -12,6 +12,7 @@
 
 
 # Half Day 1
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 - On the first day, we have listened to client about Request For Proposal and requirements by client and professor in the client meeting.
 - I have joined the collaborative repo in github.
 - Later, we had a meeting and discussed about the use of our application from user's perspective.
@@ -20,6 +21,7 @@
 
 
 # Half Day 2
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 - On the second day, I have started working on cost estimate excel sheet.
 - I have created an excel sheet to estimate the budget of the project by dividing the project in different phases.
 - Discussed about budget with my team members and have written the estimated time taken and cost to complete the project. 
@@ -28,6 +30,8 @@
 - https://github.com/RaviTeja444/health-wellness/commit/f7023b8c87daac02f7dd89e4d98b6fa63eeb75d9
 
 # Half Day 3
+Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+- I have discussed about the comments with my team that are mentioned and updated accordingly.
 - On the third day, I have updated the Excel sheet as the total cost estimate must be mentioned and I have updated the image for total cost estimate.
 - https://github.com/RaviTeja444/health-wellness/commit/f23651031b2f32f299719fff1d787ede6e4942dd
 - https://github.com/RaviTeja444/health-wellness/commit/62fa3296360ec276b77baec9c5057b2452b0a26c
