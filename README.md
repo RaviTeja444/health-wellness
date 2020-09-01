@@ -55,6 +55,11 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 1. EPIC - 1
 2. USer Storys - 23
 
+## Story Points :
+According to the acceptance criteria of each story,assigned the story points accordingly.Example of one user story screenshot is shown below.
+
+![](https://github.com/RaviTeja444/health-wellness/blob/master/StoryPoints.PNG?raw=true)
+
 ## Sprint 1(GDP1)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint1.PNG?raw=true)
 
