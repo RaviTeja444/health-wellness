@@ -34,8 +34,7 @@ Updated the [Readme.md](https://github.com/RaviTeja444/health-wellness/commit/c7
 ## 4. Half Day-3
 On Day-3, after submitting our intial Request for Proposal document. We got suggestion/changes to be done from Dr. Badami. 
 - We(Team) had a call and discussed on the latest changes need to be done and started working on the assigned tasks/comments received from Dr.Badami.
-- I have came up with some differnet colors for the App and submitted the design.As, we have given client a choice of chossing different color for the App.
-- [App Login Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Color.PNG) & [App Home Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Home.PNG)
+- I have came up with some differnet colors for the App and submitted the design.As, we have given client a choice of chossing different colors for the App [App Login Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Color.PNG) & [App Home Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Home.PNG)
 - [Link](https://github.com/RaviTeja444/health-wellness/commit/893970c4ff5066ebe952de40bf9d576191046f25) specifies the commits/changes done by me on the day 3.
 - The [Walk Tracker](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=92%3A4&scaling=scale-down) link that shows the overall work done by me in designing the app.
 
