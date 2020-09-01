@@ -277,6 +277,8 @@ According to the acceptance criteria of each story,assigned the story points acc
 ## LogIn Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png?raw=true)
 
+
+
 ## Forgot Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Forgotpasswordpage.png?raw=true)
 
@@ -285,8 +287,6 @@ According to the acceptance criteria of each story,assigned the story points acc
 
 ## Step Count Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png?raw=true)
-
-
 
 ## Training Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png?raw=true)
