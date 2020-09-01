@@ -18,7 +18,7 @@ On Day-1 i.e.(08-21-2020), we had a client meeting with the requirements outling
 3. Designed the App [Signup Page](https://github.com/RaviTeja444/health-wellness/blob/master/create%20account%20page.png?raw=true) where user will be creating an account in order to use the App.
 4. Designed the App [Home page](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png?raw=true) where User is able to calcuate the burned calories as per the foot steps given by user as of now we are designing the app where user need to manually enter the foot steps.
 
-[Link](https://github.com/RaviTeja444/health-wellness/commit/b64a68b312e7a6474d76028519f19c9c3ac21ef9) specifies the commits done by me on the day 1.
+[Link](https://github.com/RaviTeja444/health-wellness/commit/b64a68b312e7a6474d76028519f19c9c3ac21ef9) specifies the commits/changes done by me on the day 1.
 Updated the [Readme.md](https://github.com/RaviTeja444/health-wellness/commit/c77c154ad4ffc2041bb31317f4d5295e7344023e) file accordingly daily.
 
 ## 3. Half Day-2
@@ -36,5 +36,6 @@ On Day-3, after submitting our intial Request for Proposal document. We got sugg
 - We(Team) had a call and discussed on the latest changes need to be done and started working on the assigned tasks/comments received from Dr.Badami.
 - I have came up with some differnet colors for the App and submitted the design.As, we have given client a choice of chossing different color for the App.
 - [App Login Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Color.PNG) & [App Home Page](https://github.com/RaviTeja444/health-wellness/blob/master/UI_Home.PNG)
+- [Link](https://github.com/RaviTeja444/health-wellness/commit/893970c4ff5066ebe952de40bf9d576191046f25) specifies the commits/changes done by me on the day 3.
 - The [Walk Tracker](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=92%3A4&scaling=scale-down) link that shows the overall work done by me in designing the app.
 
