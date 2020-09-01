@@ -17,12 +17,14 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 - On the first day, we have listened to client about Request For Proposal and requirements by client and professor in the client meeting.
 - I have joined the collaborative repo in github.
+- I have created a jira account and accepted the invitation sent by our team manager.
+Jira link: https://health-wellness.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=HEAL&quickFilter=1
 - Later, we had a meeting and discussed about the use of our application from user's perspective.
 ## Questions and answers discussed:
 - What are the roles of each indicudial? Ans:We discussed about our interests towards each role that is Project manager, DataBase Administrator, Team Leader and Full stack developer and assigned ourselves the roles.
 - What is the objective of our project? Ans: We discussed the objective, cost and schedule of the project.
 - We have divided the work among ourselves and started working on the application.
-- https://github.com/RaviTeja444/health-wellness
+- Repo link: https://github.com/RaviTeja444/health-wellness
 
 
 # Half Day 2
