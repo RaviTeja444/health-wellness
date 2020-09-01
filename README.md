@@ -111,6 +111,7 @@ According to the acceptance criteria of each story,assigned the story points acc
 
 8.FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store a unique CHALLENGE_ID CHALLENGE_NAME,designer,date_created,date_last_accessed.
 
+
 ## RELATIONS FOR ER-DIAGRAM:
 
 1.USER(UserId,USER_NAME,USER_ROLE,EMAIL,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENDER)
