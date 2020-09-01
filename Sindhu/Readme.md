@@ -23,7 +23,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 - Later, we had a zoom meeting for about an hour and discussed about the use of our application from user's perspective.
 ## Questions and answers discussed:
-- What are the roles of each indicudial? Ans:We discussed about our interests towards each role that is Project manager, DataBase Administrator, Team Leader and Full stack developer and assigned ourselves the roles.
+- What are the roles of each indivudial? Ans:We discussed about our interests towards each role that is Project manager, DataBase Administrator, Team Leader and Full stack developer and assigned ourselves the roles.
 - What is the objective of our project? Ans: We discussed the objective, cost and schedule of the project.
 - We have divided the work among ourselves and started working on the application.
 - Repo link: https://github.com/RaviTeja444/health-wellness
