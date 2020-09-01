@@ -69,7 +69,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 - Made few changes and added content after reviewing Dr. Badami's [comments](https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31025) on our proposal draft. 
 
-- Total number of commits made by me : 24
+- Total number of [commits](https://github.com/RaviTeja444/health-wellness/commits?author=navyadevineni) made by me : 24
 - Tested our project with our sample data.
 
 
