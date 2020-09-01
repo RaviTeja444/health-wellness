@@ -91,6 +91,7 @@ According to the acceptance criteria of each story,assigned the story points acc
 5.Finally the User Points is calculated based on step count stored in DAILYLEVEL table. USER_POINTS will have userid and userpoints information.
 
 
+
 ## Business Rules for the ER Diagram:
 
 1.A certain HEALTH WELLNEESS is interested in storing information about 
