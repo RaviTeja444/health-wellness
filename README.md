@@ -30,7 +30,7 @@ The project budget includes labor costs, material acquisition and operating cost
 
 Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health-wellness/blob/master/CostEstimate.xlsx)
 
-![](https://github.com/RaviTeja444/health-wellness/blob/master/costtestimate.PNG?raw=true)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/costestimate.PNG?raw=true)
 
 
 ## Roles
