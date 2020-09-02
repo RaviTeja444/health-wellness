@@ -69,6 +69,9 @@ According to the acceptance criteria of each story,assigned the story points acc
 ## Sprint 3(GDP1)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint3.PNG?raw=true)
 
+## Testing User Story
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Testing_UserStory.PNG?raw=true)
+
 ## Backlog (Future GDP2)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/GDP2_BL.PNG?raw=true)
 
