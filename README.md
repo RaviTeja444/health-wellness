@@ -39,9 +39,9 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 | Project Manager  | Ravi Teja Pagidoju  |
 | DB Administrator | Gopichand Bhandarupalli |
 | Team Lead | Sowjanya Janapatla |
-| Full stack Developer | Bhanu Prakash Thota |
-| Full Stack Developer | Navya Devineni |
-| Full Stack Developer | Sindhu Rani |   
+| Quality Assurance Analyst | Bhanu Prakash Thota |
+| Backend Developer | Navya Devineni |
+| Front End Developer | Sindhu Rani |   
 
 
 ## Evaluation
