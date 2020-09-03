@@ -369,7 +369,11 @@ According to the acceptance criteria of each story,assigned the story points acc
 
 * Heroku : Cloud hosting platform to host our PWA in free tier.
 
-* Github : Cloud Repository Platform used to store code
+* Github : Cloud Repository Platform used to store code.
+
+* Angular : It is a javascript based open source front end web framework mainly developed by organization google and by a set of people.It aims to simplify both the development   and the testing of such applications by providing model-view-controller(MVC) and model-view-viewmodel(MVVM) architectures.
+
+* Maven : It is a build package which will be helping us to compile our applicatins.
   
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=92%3A4&scaling=scale-down)
