@@ -332,14 +332,15 @@ According to the acceptance criteria of each story,assigned the story points acc
 ## CHALLENGE_NAME ENTITY DATA
 
 
-| DATE_LAST_ACCESSED | UserId |
-| -------------------- | ------ |
-| 1/11/2019            | 101    |
-| 11/9/2019            | 102    |
-| 11/8/2019            | 103    |
-| 11/9/2019            | 104    |
-| 11/10/2019           | 105    |
-| 11/11/2019           | 106    |
+| CHALLENGE_ID  | CHALLENGE_NAME           | DESIGNER | DATE_CREATED  | DATE_LAST_ACCESSED   | UserId |
+| ------------- | ------------------------ | -------- | ------------- | -------------------- | ------ |
+| 500           | Cycling Challenges       | Timo     | 11/9/2019     | 1/11/2019            | 101    |
+| 501           |  Running Challenges      | Lias     | 11/8/2019     | 11/9/2019            | 102    |
+| 502           | Calories Burned          | Gabriel  | 11/7/2019     | 11/8/2019            | 103    |
+| 503           | Healthy Eating Challenge | Pauline  | 11/6/2019     | 11/9/2019            | 104    |
+| 504           | Walking Challenge        | Levin    | 11/5/2019     | 11/10/2019           | 105    |
+| 505           | LUNGE                    | Gabriel  | 11/4/2019     | 11/11/2019           | 106    |
+
 
 ## TARGET ENTITY DATA
 
