@@ -180,6 +180,8 @@ According to the acceptance criteria of each story,assigned the story points acc
 | 127    | Agena      | Agena123@GMAIL.COM     | Agena222     | 12/13/2015    | 2/14/2015            | 5.6    | 61     | NO          | 34  | MALE   |
 | 128    | Agnew      | Agnew123@GMAIL.COM     | Agnew222     | 12/14/2015    | 2/15/2015            | 5.7    | 62     | YES         | 35  | MALE   |
 | 129    | Ahbez      | Ahbez123@GMAIL.COM     | Ahbez222     | 12/15/2015    | 2/16/2015            | 5.8    | 63     | NO          | 36  | MALE   |
+
+
 ## USER_POINTS ENTITY DATA
 
 
@@ -196,6 +198,24 @@ According to the acceptance criteria of each story,assigned the story points acc
 | 109    | 208              | 58           |
 | 110    | 209              | 59           |
 | 111    | 210              | 60           |
+| 112    | 211              | 61           |
+| 113    | 212              | 62           |
+| 114    | 213              | 63           |
+| 115    | 214              | 64           |
+| 116    | 215              | 65           |
+| 117    | 216              | 66           |
+| 118    | 217              | 67           |
+| 119    | 218              | 68           |
+| 120    | 219              | 69           |
+| 121    | 220              | 70           |
+| 122    | 221              | 71           |
+| 123    | 222              | 72           |
+| 124    | 223              | 73           |
+| 125    | 224              | 74           |
+| 126    | 225              | 75           |
+| 127    | 226              | 76           |
+| 128    | 227              | 77           |
+| 129    | 228              | 78           |
 
 
 
