@@ -296,7 +296,7 @@ According to the acceptance criteria of each story,assigned the story points acc
 | 329               | 12/10/2017    | 12/11/2017             | 12/12/2017             | 229     |
 
 
-## DAILYLEVEL ENTITY DATA
+## DAILYLEVEL ENTITY DATA 
 
  
 | DAILYLEVEL_ID  | UserId | STEP_COUNT  | HYDRATION_LEVEL  | Sleep_Hours  | Fruits_consumed  | Vegetable_consumed  | Calories_consumed  | Date_of_measurement   |
