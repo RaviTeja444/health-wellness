@@ -391,19 +391,16 @@ According to the acceptance criteria of each story,assigned the story points acc
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/create%20account%20page.png?raw=true)
 
 ## Step Count Page
-![](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png?raw=true)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/docs/images/Home.PNG)
 
 ## Training Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png?raw=true)
 
 ## Account Page
-![](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png?raw=true)
-
-## ShopByPoints Page
-![](https://github.com/RaviTeja444/health-wellness/blob/master/market%20page.png?raw=true)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/docs/images/Training.PNG)
 
 ## Challenges Page
-![](https://github.com/RaviTeja444/health-wellness/blob/master/challenge%20page.png?raw=true)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/docs/images/challenge.PNG)
 
 ## Settings Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png?raw=true)
