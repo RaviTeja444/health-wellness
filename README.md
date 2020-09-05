@@ -379,12 +379,10 @@ According to the acceptance criteria of each story,assigned the story points acc
 * Maven : It is a build package which will be helping us to compile our applicatins.
   
 ## APP_UX Design
-[APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=92%3A4&scaling=scale-down)
+[APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
 
 ## LogIn Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png?raw=true)
-
-
 
 ## Forgot Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Forgotpasswordpage.png?raw=true)
