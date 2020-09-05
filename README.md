@@ -25,6 +25,8 @@ Our app will help users to track their health and wellness progress using step c
 3. The user statistical data can be used to predict users health prior to attack.
 
 ## Budget
+A project budget is the estimated expected costs necessary to complete a project within a given time span. 
+It's used to predict what the project 's costs would be with each project process.
 The project budget includes labor costs, material acquisition and operating costs.
 
 
