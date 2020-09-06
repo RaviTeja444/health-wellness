@@ -358,7 +358,7 @@ According to the acceptance criteria of each story,assigned the story points acc
 
 
 ## Schedule
-![Schedule Management](https://github.com/RaviTeja444/health-wellness/blob/master/ScheduleManagement.png)
+![Schedule Management](https://github.com/RaviTeja444/health-wellness/blob/master/ScheduleManagement.png) 
 
 ## Technology Stack
 * Nodejs : Its an open source cross platform javascript runtime environment that executes javascript code without browser.
