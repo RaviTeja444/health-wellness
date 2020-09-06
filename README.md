@@ -144,9 +144,6 @@ According to the acceptance criteria of each story,assigned the story points acc
 7.TARGET(TARGET_ID,TARGET_NAME,TARGET_DESCRIPTION,CHALLENGE_ID,TARGET_NUMERICAL_GOAL)
   FK CHALLENGE_ID-> CHALLENGE
 
-
-
-
 ## Link to Sample Input Data for Database
 [Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
 
