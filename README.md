@@ -100,6 +100,7 @@ According to the acceptance criteria of each story,assigned the story points acc
 
 
 
+
 ## Business Rules for the ER Diagram:
 
 1.A certain HEALTH WELLNEESS is interested in storing information about 
