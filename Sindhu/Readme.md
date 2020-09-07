@@ -68,13 +68,16 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - I have added the cost estimate image and the image link.
   
   https://github.com/RaviTeja444/health-wellness/commit/ded2316227bb181c79c101cb175c5f314af37422
+
   https://github.com/RaviTeja444/health-wellness/commit/c7f98ced0463a273eadbcda41df1a2ae2fa18ba7
+
   https://github.com/RaviTeja444/health-wellness/commit/fc4a4be5aa033b12b05f79e019b013dc2af9b07b
 
 # Half Day 2
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - On second day, our team discussed about the tasks and presentation in a zoom meeting for about 45 minutes.
+
 ![ZoomImage](https://github.com/RaviTeja444/health-wellness/blob/master/Sindhu/zoom.PNG)
 
 ## Questions we have discussed:
