@@ -36,3 +36,8 @@ Meetings and discussions in our team are captured in [here](https://github.com/R
 | 08/31/2020 | Present In\-Person |
 | 09/02/2020 | Present In\-Person |
 | 09/04/2020 | Zoom Session       |
+- I have been collaborating with the team over calls and meetings regarding the proposal and planning all the while.
+## Half Day 1
+On day one of this week, I happened to create a draft of the presentation with the specifications document. I could clear some of my doubts, also got my work reviewed by professor. I don’t have much to show in the commits but all that I had worked was reviewing the RFP and listing on the points required to client’s presentation. Also, updating some of the meeting minutes.
+- [Meeting Minutes](https://github.com/RaviTeja444/health-wellness/commit/8966f19d27811630af6333fc787929f161d3fb1f)
+- [Presentation Document](https://github.com/RaviTeja444/health-wellness/commit/441e5bee2e6d99e03c9111e08c2a7d5fc6df986e)
