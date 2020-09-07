@@ -65,8 +65,8 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 - I have updated the cost estimate file as per client requirement. 
   https://github.com/RaviTeja444/health-wellness/commit/f0d89440b7756affe525d70938ee3a9efe994e66
 - I have added the cost estimate image and the image link.
+  
   https://github.com/RaviTeja444/health-wellness/commit/ded2316227bb181c79c101cb175c5f314af37422
-
   https://github.com/RaviTeja444/health-wellness/commit/c7f98ced0463a273eadbcda41df1a2ae2fa18ba7
   https://github.com/RaviTeja444/health-wellness/commit/fc4a4be5aa033b12b05f79e019b013dc2af9b07b
 
@@ -89,6 +89,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 - I have updated readme.md file about the budget description.
+  
   https://github.com/RaviTeja444/health-wellness/commit/a6552d5e5d9a51c762eb382dd954fe17f8cdb5c1
 - We have added UI screens to the presentation slides as per the client request.
   
