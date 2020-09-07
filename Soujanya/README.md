@@ -41,3 +41,13 @@ Meetings and discussions in our team are captured in [here](https://github.com/R
 On day one of this week, I happened to create a draft of the presentation with the specifications document. I could clear some of my doubts, also got my work reviewed by professor. I don’t have much to show in the commits but all that I had worked was reviewing the RFP and listing on the points required to client’s presentation. Also, updating some of the meeting minutes.
 - [Meeting Minutes](https://github.com/RaviTeja444/health-wellness/commit/8966f19d27811630af6333fc787929f161d3fb1f)
 - [Presentation Document](https://github.com/RaviTeja444/health-wellness/commit/441e5bee2e6d99e03c9111e08c2a7d5fc6df986e)
+
+## Half day 2
+On Wednesday 09/02/2020 – As a Team Lead, my major contribution for this whole week had gone in preparing the presentation for clients meeting. I had made the presentation document ready, as part of the meeting I gathered the Requirements, Project Development Specifications, and the outcomes to show. Also the previous day we had a small change in terms of schedule and cost estimation, which made us to re-evaluate of the efforts and timelines. Also the team had a zoom call discussing on the roles and few specific updates on the Work Breakdown chart.
+- [Software Development Plan](https://github.com/RaviTeja444/health-wellness/commit/6164f67616b769eb0cf17ecd462d8ac54de2d0af)
+- [Team Mates photos](https://github.com/RaviTeja444/health-wellness/commit/3c3a28d140036ccd678e8c4f8a98f56f5212d8bb)
+- [Budget and Schedule Management](https://github.com/RaviTeja444/health-wellness/commit/5f38389daa4308b5a7a64f575384416adca0e717)
+- [Technlogies List](https://github.com/RaviTeja444/health-wellness/commit/328dc7ab64fd9395ebf085a1fcf6b9eb219b2e4c)
+- [Functional Requirements](https://github.com/RaviTeja444/health-wellness/commit/7cd69a887ad5b07c157169b5ebe1eaad3c148a2a)
+- [Notes](https://github.com/RaviTeja444/health-wellness/commit/6087152038bdc9209afd79b93ae6e88c6472a11e)
+- [Minor Semantics](https://github.com/RaviTeja444/health-wellness/commit/6087152038bdc9209afd79b93ae6e88c6472a11e)
