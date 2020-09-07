@@ -63,6 +63,7 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 - On first day, I worked on preparing the presentation.
 - I have updated the cost estimate file as per client requirement. 
+  
   https://github.com/RaviTeja444/health-wellness/commit/f0d89440b7756affe525d70938ee3a9efe994e66
 - I have added the cost estimate image and the image link.
   
@@ -78,10 +79,13 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 
 ## Questions we have discussed:
 1. Can we update the team members roles?
+   
    We discussed about roles that having one manager, team leader, Quality Assurance Analyst, frontend and backend developers is better that having manager,team lead and three full stack developers.
 1. Who is going to give the presentation and what points should we explain to the client?
+
    We thought Our team leader will give the presentation and we discussed about the important areas that we should explain to the client.
 1. How should we include and explain cost estimate and schedule management?
+
    I have explained about cost estimate and other team member explained the schedule management and we have included the snipped images to the presentation slides.
 - One of our team members gave client presentation and I have taken notes on the feedback that client has given.
 
