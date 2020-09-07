@@ -53,9 +53,13 @@ Time allocated : 4hours = 1hour in class + 3hours out of the class = Worth 300 p
 # Indivudial Contribution 2
 
 # Attendance
+
 Date            Mode of class 	Number of hours	  	 Discussion
+
 8/31/2020   	Online  	   4 hours	   Worked on project proposal
+
 9/02/2020       in-person          4 hours         Client Presentation
+
 9/04/2020      	Online             4 hours         Worked on schedule
 
 # Half Day 1
