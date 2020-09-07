@@ -1,4 +1,4 @@
-# Individual Contribution
+# Module 1: Individual Contribution: 1
 
 ## Attendance
 | Date      | Comments            |
@@ -27,3 +27,12 @@ I attended the in-person section from my team, in order to check with the projec
 - [WalkTracker Benefits and Project Requirement Specifications](https://github.com/RaviTeja444/health-wellness/commit/441e5bee2e6d99e03c9111e08c2a7d5fc6df986e)
 ## Team Meetings
 Meetings and discussions in our team are captured in [here](https://github.com/RaviTeja444/health-wellness/commit/81f8f2ae728c40ed26c96e2daf0d3c9593668dfd)
+
+# Module 1: Individual Contribution: 2
+
+## Attendance
+| Dates      | Mode               |
+|------------|--------------------|
+| 08/31/2020 | Present In\-Person |
+| 09/02/2020 | Present In\-Person |
+| 09/04/2020 | Zoom Session       |
